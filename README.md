@@ -5,7 +5,7 @@ Linux desktop.
 
 ## Add it
 
-Open **https://tsuikabako.github.io/add** and click **Add to Kurobayomi**, or paste this address in Kurobayomi
+Open **https://tsuikabako.github.io** and click **Add to Kurobayomi**, or paste this address in Kurobayomi
 (**Add a source repository**, or **Settings → Sources and tracking → Repositories → Add**):
 
 ```
